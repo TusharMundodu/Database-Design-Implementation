@@ -1,0 +1,2 @@
+# Database-Design-Implementation
+The project focuses on creating a common platform for students, residents and store owners alike, in Syracuse, to mutually benefit from each other. There is already a website for off campus housing – ‘orangehousing.com’ and enough e-commerce platforms for students to capitalise on, for their day-to-day livelihood. This is a mix and match of the salient features of both these applications through a 'student utilities management system'.
